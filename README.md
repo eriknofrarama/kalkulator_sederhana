@@ -7,7 +7,7 @@ Aplikasi kalkulator sederhana menggunakan **HTML, CSS Grid, dan JavaScript**.
 2. Buka file `index.html` di browser.
 
 ## Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](kalkulator_sederhana.jpeg)
 
 ## Demo Online
 Klik link berikut untuk mencoba langsung:  
